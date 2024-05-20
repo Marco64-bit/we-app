@@ -5,9 +5,6 @@ import Home from './components/Home';
 import MoviesDetalis from './components/Moviedetails';
 import Notfound from './components/Notfound component';
 import TvDetalis from './components/Tvshowdetalis';
-
-
-import { useEffect, useState } from 'react';
 import Movies from './components/movies';
 import Tvshow from './components/Tvshow';
 import People from './components/People';
